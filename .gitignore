@@ -53,3 +53,6 @@ Temporary Items
 ## Vite Press related
 docs/.vitepress/cache
 docs/.vitepress/dist
+
+# Flake
+.direnv
